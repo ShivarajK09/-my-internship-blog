@@ -1,0 +1,17 @@
+# Two Internships, Two Kinds of Data: What PESU Venture Lab Taught Me About Business Analytics
+
+When I started my Trimester 5 internship at JustBooks Solutions, I thought I knew what "data analytics" meant: open a spreadsheet, find the patterns, build the model. I had 10,645 rows of member data — borrow counts, renewal history, days since expiry — spanning fifteen years across 47 branches. My job was to figure out which of JustBooks' 10,000-plus lapsed members were worth chasing for a win-back campaign, and which weren't.
+
+What I didn't expect was how much of the real work was deciding what to ignore. Amount paid looked like an obvious signal — surely people who paid more were more invested? It turned out to have almost no relationship with engagement at all, because JustBooks only has about ten pricing points, so the scatter plot just showed vertical stripes. The variable that actually mattered was something quieter: how many books someone had borrowed, and how many times they'd renewed. That became the backbone of a four-zone system — VVIP, VIP, Dormant, Less Inactive — that could tell a branch manager exactly who to call first. One branch, 1008, turned out to be responsible for nearly a fifth of all lapsed members in the entire network. Nobody had noticed that until the data showed it.
+
+**Then Trimester 6 flipped everything I'd just learned upside down.**
+
+At PESU Venture Lab, I was assigned to Kreedo, a screen-free activity app for kids, and BAE Social, an app that turns apartment complexes into informal book libraries. Both were pre-launch. There was no spreadsheet. There was no borrow count, no renewal history, nothing to run a correlation on. My first instinct was mild panic — what does an analyst even do without data?
+
+It turns out there's an entire discipline for exactly this problem. Instead of mining history, I had to build a market thesis from the outside in: how many children in India are the right age, how many of their parents would realistically care about screen-free learning, what a realistic first-year target looks like given three launch cities. Instead of correlation coefficients, I was reading competitor Play Store listings for Flintobox and Intellikit, working out why Kreedo's household-material model might actually be cheaper and stickier than a monthly mailed box. Instead of a confidence score, I had to make a defensible argument with the evidence I could find, and be honest about what was still a guess.
+
+The thing that stuck with me most is that both of these are "real" analytics work — they just sit at opposite ends of the same spectrum. JustBooks needed rigour: don't let a plausible-looking variable fool you, let the correlations speak before you trust your intuition. Kreedo and BAE Social needed something almost the opposite: don't wait for perfect data that doesn't exist yet, make the best structured decision you can with what's actually available, and build in a way to check yourself later once real usage data starts coming in.
+
+If there's one lesson I'm taking into my next role, it's that the tool has to fit the situation, not the other way around. A ten-year-old, 10,000-row dataset and a two-week-old app with twelve downloads are both "business problems that need an answer by Friday." They just don't need the same kind of answer — and knowing which one you're standing in front of is half the job.
+
+*— Shivaraj R Khot*
